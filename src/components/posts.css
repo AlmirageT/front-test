@@ -1,0 +1,27 @@
+.DataTable .search-label{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+.DataTable #search-bar-0{
+    background-color: #bfdefb;
+    width: 430px;
+    font-size: 14px;
+}
+
+.DataTable #search-bar-0-label{
+    display: none;
+}
+
+.DataTable .table td{
+    Word-break: break-all
+}
+
+.DataTable .react-bootstrap-table-pagination-list{
+    right: 7px!important;
+}
+
+.DataTable .react-bs-table-sizePerPage-dropdown.dropdown{
+    left: 7px!important;
+}
